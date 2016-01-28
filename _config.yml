@@ -50,7 +50,7 @@ detach:  false
 port:    4000
 host:    127.0.0.1
 baseurl: "/poole" # does not include hostname
-url: "http://staticblog.github.io" # the base hostname & protocol for your site
+url: "http://longdatain.github.io" # the base hostname & protocol for your site
 
 # Outputting
 permalink:     /:categories/:title
